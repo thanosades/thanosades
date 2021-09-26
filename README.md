@@ -20,11 +20,6 @@
 </p>
 
 <p align='center'>
-  🌱 Interested to learn in the future<br><br>
-  Focus in backend-oriented languages and technologies.
-</p>
-
-<p align='center'>
   📫 Contact me<br><br>
   <a href="mailto:thanosades@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/thanosades"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
