@@ -36,7 +36,7 @@
 </p>
 <h3 align='center'>Back-end</h3>
 <p align='center'>
-  <a href="https://github.com/thanosades/greddit-server">GREDDIT server</a> - using Node, TypeScript, Apollo, GraphQL, PostgreSQL and Mikro-ORM
+  <a href="https://github.com/thanosades/greddit-server">GREDDIT server</a> - using Node, TypeScript, Apollo, GraphQL, PostgreSQL and Mikro-ORM.
 </p>
 
 <h2 align='center'>Contact</h2>
