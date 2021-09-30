@@ -29,10 +29,16 @@
 <h2 align='center'>Personal Projects</h2>
 <h3 align='center'>Front-end</h3>
 <p align='center'>
-  <a href="https://condescending-colden-58e3e9.netlify.app/"><img src="https://github.com/thanosades/thanosades/blob/main/ten-questions-github.png" alt="preview for ten questions quiz"></a>
-</p>
+  <a href="https://condescending-colden-58e3e9.netlify.app"><img src="https://github.com/thanosades/thanosades/blob/main/img/quiz.png" alt="preview for ten questions quiz"></a>
+ </p>
 <p align='center'>
   Repo <a href="https://github.com/thanosades/quiz-app">here</a>. A quiz application that uses Open Trivia API. Built using TypeScript, React and SASS. 
+</p>
+<p align='center'>
+  <a href="https://fervent-kowalevski-ed1d06.netlify.app"><img src="https://github.com/thanosades/thanosades/blob/main/img/rhf.png" alt="react form"></a>
+ </p>
+<p align='center'>
+  Repo <a href="https://github.com/thanosades/react-hooks-form">here</a>. A React form with validation, built using Tailwind, React-Hook-Form and Yup. 
 </p>
 <h3 align='center'>Back-end</h3>
 <p align='center'>
