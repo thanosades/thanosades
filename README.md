@@ -45,7 +45,7 @@
 </p>
 <h3 align='center'>Back-end</h3>
 <p align='center'>
-  <a href="https://github.com/thanosades/greddit-server">GREDDIT server</a> - Built with Node, TypeScript, Apollo, GraphQL, PostgreSQL and Mikro-ORM. (work in progress)
+  <a href="https://github.com/thanosades/greddit-server">GREDDIT server</a> (work in progress) - Built with Node, TypeScript, Apollo, GraphQL, PostgreSQL and Mikro-ORM.
 </p>
 <p align='center'>
   <a href="https://github.com/thanosades/notes-backend">Notes REST API</a> - Built with Node/Express, MongoDB, JSON Web Token. Deployed on Heroku.  
