@@ -26,6 +26,12 @@
 <h2 align='center'>Personal Projects</h2>
 <h3 align='center'>Front-end</h3>
 <p align='center'>
+  <a href="https://friendly-williams-506bd5.netlify.app/"><img src="https://github.com/thanosades/thanosades/blob/main/img/starlights.png" alt="preview for starlights app"></a>
+ </p>
+<p align='center'>
+  Repo <a href="https://github.com/thanosades/starlights-app">here</a>. A MERN app for users to post their favorite moments. Built with React, Redux, Material UI, Node/Express and MongoDB.
+</p>
+<p align='center'>
   <a href="https://condescending-colden-58e3e9.netlify.app"><img src="https://github.com/thanosades/thanosades/blob/main/img/quiz.png" alt="preview for ten questions quiz"></a>
  </p>
 <p align='center'>
