@@ -2,6 +2,12 @@
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=thanosades&show_icons=true&count_private=true&theme=tokyonight" width="350" alt="github stats">
 </p>
+<h2>Looking For</h2>
+  <ul align='center'>
+  <li>Frontend work</li>
+  <li>Buddies and mentors to bounce off ideas and work together</li>
+  <li>Open source projects to contribute</li>
+  </ul>
   <h2 align='center'>Workstation Setup</h2>
   <p align='center'>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="badge for Windows 10">
