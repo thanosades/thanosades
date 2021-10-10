@@ -11,7 +11,7 @@
   <h2>Workstation Setup</h2>
   <p>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="badge for Windows 10">
-  <img src="https://img.shields.io/badge/Ubuntu_(WSL2)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="badge for Ubuntu">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="badge for Ubuntu">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="badge for Visual Studio Code">
 </p>
 
