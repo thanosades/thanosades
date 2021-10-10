@@ -30,13 +30,13 @@
 </p>
 
 <h2>Projects</h2>
-<h3>Front-end</h3>
-<p>
-  <a href="https://friendly-williams-506bd5.netlify.app/"><img src="https://github.com/thanosades/thanosades/blob/main/img/starlights.png" alt="preview for starlights app"></a>
+<h3>Fullstack</h3>
+<p><a href="https://friendly-williams-506bd5.netlify.app/"><img src="https://github.com/thanosades/thanosades/blob/main/img/starlights.png" alt="preview for starlights app"></a>
  </p>
 <p>
-  Repo <a href="https://github.com/thanosades/starlights-app">here</a>. A MERN app for users to post their favorite moments. Built with React, Redux, Material UI, Node/Express and MongoDB.
+  Repo <a href="https://github.com/thanosades/starlights-app">here</a>. A MERN app for users to post their favorite moments. Made with JavaScript, React Hooks, Redux, Material UI, Node/Express and MongoDB.
 </p>
+<h3>Frontend</h3>
 <p>
   <a href="https://condescending-colden-58e3e9.netlify.app"><img src="https://github.com/thanosades/thanosades/blob/main/img/quiz.png" alt="preview for ten questions quiz"></a>
  </p>
@@ -49,12 +49,10 @@
 <p>
   Repo <a href="https://github.com/thanosades/react-hooks-form">here</a>. A React form with validation, built using Tailwind, React-Hook-Form and Yup. 
 </p>
+
 <h3>Back-end</h3>
 <p>
   <a href="https://github.com/thanosades/greddit-server">GREDDIT server</a> (work in progress) - Built with Node, TypeScript, Apollo, GraphQL, PostgreSQL and Mikro-ORM.
-</p>
-<p'>
-  <a href="https://github.com/thanosades/notes-backend">Notes REST API</a> - Built with Node/Express, MongoDB, JSON Web Token. Deployed on Heroku.  
 </p>
 
 <h2>Contact Me</h2>
