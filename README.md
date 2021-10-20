@@ -52,9 +52,11 @@
 
 <h3>Back-end</h3>
 <p>
-  <a href="https://github.com/thanosades/greddit-server">GREDDIT server</a> (work in progress) - Made with Node, TypeScript, Apollo, GraphQL, PostgreSQL and Mikro-ORM.
-  <a href="https://github.com/thanosades/notes-backend">Notes backend</a> - Made with React Hooks, Node/Express, Jest, JWT and MongoDB. Features mockup login with password salting.
+  <a href="https://github.com/thanosades/greddit-server">GREDDIT server</a> (work in progress) - Made with Node, TypeScript, Apollo, GraphQL, PostgreSQL and Mikro-ORM
 </p>
+<p>
+  <a href="https://github.com/thanosades/notes-backend">Notes backend</a> - Frontend is barebones, I consider it a backend project. Node/Express, Jest, JWT and MongoDB. Features mockup login with password salting.
+  </p>
 
 <h2>Contact Me</h2>
 <p>
