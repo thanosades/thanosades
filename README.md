@@ -31,7 +31,7 @@
 
 <h2>Projects</h2>
 <h3>Fullstack</h3>
-<p><a href="https://friendly-williams-506bd5.netlify.app/"><img src="https://github.com/thanosades/thanosades/blob/main/img/starlights.png" alt="preview for starlights app"></a>
+<p><a href="https://naughty-panini-63decd.netlify.app/"><img src="https://github.com/thanosades/thanosades/blob/main/img/starlights.png" alt="preview for starlights app"></a>
  </p>
 <p>
   Repo <a href="https://github.com/thanosades/starlights-app">here</a>. A MERN app for users to post their favorite moments. Made with JavaScript, React Hooks, Redux, Material UI, Node/Express and MongoDB.
