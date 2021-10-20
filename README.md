@@ -41,18 +41,19 @@
   <a href="https://condescending-colden-58e3e9.netlify.app"><img src="https://github.com/thanosades/thanosades/blob/main/img/quiz.png" alt="preview for ten questions quiz"></a>
  </p>
 <p>
-  Repo <a href="https://github.com/thanosades/quiz-app">here</a>. A quiz application that uses Open Trivia API. Built using TypeScript, React and SASS. 
+  Repo <a href="https://github.com/thanosades/quiz-app">here</a>. A quiz application that uses Open Trivia API. Made using TypeScript, React and SASS. 
 </p>
 <p>
   <a href="https://fervent-kowalevski-ed1d06.netlify.app"><img src="https://github.com/thanosades/thanosades/blob/main/img/rhf.png" alt="react form"></a>
  </p>
 <p>
-  Repo <a href="https://github.com/thanosades/react-hooks-form">here</a>. A React form with validation, built using Tailwind, React-Hook-Form and Yup. 
+  Repo <a href="https://github.com/thanosades/react-hooks-form">here</a>. A React form with validation, made using Tailwind, React-Hook-Form and Yup. 
 </p>
 
 <h3>Back-end</h3>
 <p>
-  <a href="https://github.com/thanosades/greddit-server">GREDDIT server</a> (work in progress) - Built with Node, TypeScript, Apollo, GraphQL, PostgreSQL and Mikro-ORM.
+  <a href="https://github.com/thanosades/greddit-server">GREDDIT server</a> (work in progress) - Made with Node, TypeScript, Apollo, GraphQL, PostgreSQL and Mikro-ORM.
+  <a href="https://github.com/thanosades/notes-backend">Notes backend</a> - Made with React Hooks, Node/Express, Jest, JWT and MongoDB. Features mockup login with password salting.
 </p>
 
 <h2>Contact Me</h2>
