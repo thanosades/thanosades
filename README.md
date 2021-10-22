@@ -1,6 +1,13 @@
 <h1 align='center'>Hello 👋😊 I'm Thanos!</h1>
+
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=thanosades&show_icons=true&count_private=true&theme=tokyonight" width="350" alt="github stats">
+</p>
+<h2>Contact Me</h2>
+<p>
+  <a href="mailto:thanosades@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="badge for email"></a>
+  <a href="https://www.linkedin.com/in/thanosades"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="badge for Linkedin"></a>
+  <a href="https://www.codewars.com/users/thanosades"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
 </p>
   <h2>Workstation Setup</h2>
   <p>
@@ -51,10 +58,3 @@
 <p>
   <a href="https://github.com/thanosades/notes-backend">Notes backend</a> - Frontend is barebones, I consider it a backend project. Node/Express, Jest, JWT and MongoDB. Features mockup login with password salting.
   </p>
-
-<h2>Contact Me</h2>
-<p>
-  <a href="mailto:thanosades@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="badge for email"></a>
-  <a href="https://www.linkedin.com/in/thanosades"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="badge for Linkedin"></a>
-  <a href="https://www.codewars.com/users/thanosades"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
-</p>
