@@ -4,9 +4,8 @@
 </p>
 <h2>Looking For</h2>
   <ul>
-  <li>Frontend work</li>
-  <li>Buddies and mentors to bounce off ideas and work together</li>
-  <li>Open source projects to contribute</li>
+  <li>Make friends to bounce ideas off each other and work together</li>
+  <li>Interesting projects to build/contribute</li>
   </ul>
   <h2>Workstation Setup</h2>
   <p>
