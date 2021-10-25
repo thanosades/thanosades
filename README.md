@@ -44,6 +44,11 @@
 <p>
   Repo <a href="https://github.com/thanosades/quiz-app">here</a>. A quiz application that uses Open Trivia API. Made using TypeScript, React and SASS. 
 </p>
+<hr>
+<p>
+  Food-app https://github.com/thanosades/food-app made with Next.js, MongoDB and Strapi.
+</p>
+<hr>
 <p>
   <a href="https://fervent-kowalevski-ed1d06.netlify.app"><img src="https://github.com/thanosades/thanosades/blob/main/img/rhf.png" alt="react form"></a>
  </p>
@@ -55,6 +60,7 @@
 <p>
   <a href="https://github.com/thanosades/greddit-server">GREDDIT server</a> (work in progress) - Made with Node, TypeScript, Apollo, GraphQL, PostgreSQL and Mikro-ORM
 </p>
+<hr>
 <p>
   <a href="https://github.com/thanosades/notes-backend">Notes backend</a> - Frontend is barebones, I consider it a backend project. Node/Express, Jest, JWT and MongoDB. Features mockup login with password salting.
   </p>
