@@ -1,6 +1,6 @@
 <h1 align='center'>Hello 👋😊 I'm Thanos!</h1>
 
-<h2>Projects</h2>
+<h2>My Projects</h2>
 <h3>Fullstack</h3>
 <p><a href="https://naughty-panini-63decd.netlify.app/"><img src="https://github.com/thanosades/thanosades/blob/main/img/starlights.png" alt="preview for starlights app"></a>
  </p>
