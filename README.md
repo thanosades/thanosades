@@ -7,6 +7,9 @@
 <p>
   Repo <a href="https://github.com/thanosades/starlights-app">here</a>. A MERN app for users to post their favorite moments. Made with JavaScript, React Hooks, Redux, Material UI, Node/Express and MongoDB.
 </p>
+<p>
+ <a href="https://immense-beach-84136.herokuapp.com/"><img src="https://github.com/thanosades/thanosades/blob/main/img/food.png" alt="preview for strapi food app"></a></p>
+ <p>Repo <a href="https://github.com/thanosades/food-app">here</a>. Food-app made with Next.js, MongoDB and Strapi.</p>
 <h3>Frontend</h3>
 <p>
   <a href="https://condescending-colden-58e3e9.netlify.app"><img src="https://github.com/thanosades/thanosades/blob/main/img/quiz.png" alt="preview for ten questions quiz"></a>
@@ -15,9 +18,7 @@
   Repo <a href="https://github.com/thanosades/quiz-app">here</a>. A quiz application that uses Open Trivia API. Made using TypeScript, React and SASS. 
 </p>
 <hr>
-<p>
- <a href="https://immense-beach-84136.herokuapp.com/"><img src="https://github.com/thanosades/thanosades/blob/main/img/starlights.png" alt="preview for strapi food app"></a>. Repo <a href="https://github.com/thanosades/food-app">here</a>. Food-app made with Next.js, MongoDB and Strapi.
-</p>
+
 <hr>
 <p>
   <a href="https://fervent-kowalevski-ed1d06.netlify.app"><img src="https://github.com/thanosades/thanosades/blob/main/img/rhf.png" alt="react form"></a>
@@ -32,7 +33,7 @@
 </p>
 <hr>
 <p>
-  <a href="https://github.com/thanosades/notes-backend">Notes backend</a> - Frontend is barebones, I consider it a backend project. Node/Express, Jest, JWT and MongoDB. Features mockup login with password salting.
+  <a href="https://github.com/thanosades/notes-backend">Notes backend</a> - It has a React frontend but it's really basic, and that's why I listed it here instead. I used Node.js, Jest, JWT and MongoDB. Features mockup login with password salting.
 </p>
 <h2>Skills, Languages Frameworks and Tools</h2>
 <p>
