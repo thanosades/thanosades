@@ -1,6 +1,6 @@
 <h1 align='center'>Hello 👋😊 I'm Thanos!</h1>
 
-<h2>My Projects</h2>
+<h2>My Projects (click on their pictures for live version)</h2>
 <h3>Fullstack</h3>
 <p><a href="https://naughty-panini-63decd.netlify.app/"><img src="https://github.com/thanosades/thanosades/blob/main/img/starlights.png" alt="preview for starlights app"></a>
  </p>
@@ -16,7 +16,7 @@
 </p>
 <hr>
 <p>
- Live demo <a href="https://immense-beach-84136.herokuapp.com/">here</a>. Food-app https://github.com/thanosades/food-app made with Next.js, MongoDB and Strapi.
+ <a href="https://immense-beach-84136.herokuapp.com/"><img src="https://github.com/thanosades/thanosades/blob/main/img/starlights.png" alt="preview for strapi food app"></a>. Repo <a href="https://github.com/thanosades/food-app">here</a>. Food-app made with Next.js, MongoDB and Strapi.
 </p>
 <hr>
 <p>
