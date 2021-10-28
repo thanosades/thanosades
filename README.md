@@ -16,7 +16,7 @@
 </p>
 <hr>
 <p>
-  Food-app https://github.com/thanosades/food-app made with Next.js, MongoDB and Strapi.
+ Live demo <a href="https://immense-beach-84136.herokuapp.com/">here</a>. Food-app https://github.com/thanosades/food-app made with Next.js, MongoDB and Strapi.
 </p>
 <hr>
 <p>
