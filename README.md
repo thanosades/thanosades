@@ -1,33 +1,7 @@
 <h1 align='center'>Hello 👋😊 I'm Thanos!</h1>
 
-<h2>My Projects (click on their pictures for live version)</h2>
-<h3>Fullstack</h3>
-<p><a href="https://naughty-panini-63decd.netlify.app/"><img src="https://github.com/thanosades/thanosades/blob/main/img/starlights.png" alt="preview for starlights app"></a>
- </p>
-<p>
-  Repo <a href="https://github.com/thanosades/starlights-app">here</a>. A MERN app for users to post their favorite moments. Made with JavaScript, React Hooks, Redux, Material UI, Node/Express and MongoDB.
-</p>
-<p>
- <a href="https://immense-beach-84136.herokuapp.com/"><img src="https://github.com/thanosades/thanosades/blob/main/img/food.png" alt="preview for strapi food app"></a></p>
- <p>Repo <a href="https://github.com/thanosades/food-app">here</a>. Food-app made with Next.js, MongoDB and Strapi.</p>
-<h3>Frontend</h3>
-<p>
-  <a href="https://condescending-colden-58e3e9.netlify.app"><img src="https://github.com/thanosades/thanosades/blob/main/img/quiz.png" alt="preview for ten questions quiz"></a>
- </p>
-<p>
-  Repo <a href="https://github.com/thanosades/quiz-app">here</a>. A quiz application that uses Open Trivia API. Made using TypeScript, React and SASS. 
-</p>
-<p>
-  <a href="https://fervent-kowalevski-ed1d06.netlify.app"><img src="https://github.com/thanosades/thanosades/blob/main/img/rhf.png" alt="react form"></a>
- </p>
-<p>
-  Repo <a href="https://github.com/thanosades/react-hooks-form">here</a>. A React form with validation, made using Tailwind, React-Hook-Form and Yup. 
-</p>
+<p>My portfolio can be found <a href="https://thanosades.vercel.app/">here</a> (work in progress).</p>
 
-<h3>Back-end</h3>
-<p>
-  <a href="https://github.com/thanosades/notes-backend">Notes backend</a> - It has a React frontend but it's really basic, and that's why I listed it here instead. I used Node.js, Jest, JWT and MongoDB. Features mockup login with password salting.
-</p>
 <h2>Skills, Languages Frameworks and Tools</h2>
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="badge for JavaScript"></a>
