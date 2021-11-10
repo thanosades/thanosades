@@ -1,6 +1,6 @@
 <h1 align='center'>Hello 👋😊 I'm Thanos!</h1>
 
-<p>My portfolio can be found <a href="https://thanosades.vercel.app/">here</a> (work in progress).</p>
+<p>My portfolio can be found <a href="https://thanosades.vercel.app/">here</a>.</p>
 
 <h2>Skills, Languages Frameworks and Tools</h2>
 <p>
@@ -15,3 +15,9 @@
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 </p>
+
+<ul>
+  <li>🌱 Checking out: .NET 6, C# 10 and ASP.NET Core</li>
+  <li>🌍 Active at the following Discord communities: <a href="https://www.reactiflux.com/">Reactiflux</a>, <a href="https://discord.com/invite/typescript">TypeScript</a>, <a href="https://discord.com/invite/csharp">C#</a></li>
+  <li>🎉 If you're a friendly person passionate about coding I would love to meet you!</li>
+</ul>
