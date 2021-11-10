@@ -21,3 +21,8 @@
   <li>🌍 Active at the following Discord communities: <a href="https://www.reactiflux.com/">Reactiflux</a>, <a href="https://discord.com/invite/typescript">TypeScript</a>, <a href="https://discord.com/invite/csharp">C#</a></li>
   <li>🎉 If you're a friendly person passionate about coding I would love to meet you!</li>
 </ul>
+
+Check out my other profiles:
+
+<a href="https://www.codewars.com/users/thanosades"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
+<a href="http://linkedin.com/in/thanosades"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
