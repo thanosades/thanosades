@@ -18,7 +18,6 @@
 
 <ul>
   <li>💖 Favorite languages: TypeScript and C#</li>
-  <li>🌱 Checking out: .NET 6, C# 10 and ASP.NET Core</li>
   <li>🌍 Active in the following communities: <a href="https://www.reactiflux.com/">Reactiflux</a>, <a href="https://discord.com/invite/typescript">TypeScript</a>, <a href="https://discord.com/invite/csharp">C#</a></li>
   <li>🎉 If you're a friendly person passionate about coding I would love to meet you!</li>
 </ul>
