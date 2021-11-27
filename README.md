@@ -17,7 +17,6 @@
 </p>
 
 <ul>
-  <li>💖 Favorite languages: C# and TypeScript</li>
   <li>🌍 Active in the following communities: <a href="https://www.reactiflux.com/">Reactiflux</a>, <a href="https://discord.com/invite/typescript">TypeScript</a>, <a href="https://discord.com/invite/csharp">C#</a></li>
-  <li>🎉 If you're a friendly person passionate about coding I would love to meet you!</li>
+  <li>🎉 If you're a friendly person and love coding let's talk!</li>
 </ul>
