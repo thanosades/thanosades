@@ -2,7 +2,9 @@
 
 <p>My portfolio can be found <a href="https://thanosades.vercel.app/">here</a>.</p>
 
-<h2>Skills, Languages Frameworks and Tools</h2>
+<b>Status: Sick 🤒</b>
+
+<h2>Skills</h2>
 <ul>
   <li><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="badge for TypeScript"></a>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="badge for JavaScript"></a>
