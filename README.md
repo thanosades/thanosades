@@ -2,7 +2,7 @@
 
 <p>My portfolio can be found <a href="https://thanosades.vercel.app/">here</a>.</p>
 
-<b>Status: Sick 🤒</b>
+<b>Status: Recovering</b>
 
 <h2>Skills</h2>
 <ul>
