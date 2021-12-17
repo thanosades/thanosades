@@ -2,7 +2,7 @@
 
 <p>My portfolio can be found <a href="https://thanosades.vercel.app/">here</a>.</p>
 
-<b>Status:</b>
+<b>Status: 初心</b>
 
 <pre>
 <code>
