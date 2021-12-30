@@ -2,7 +2,9 @@
 
 <p>My portfolio can be found <a href="https://thanosades.vercel.app/">here</a>.</p>
 
-<b>Currently working through: [Java mooc.fi](https://java-programming.mooc.fi/) + [React: The complete guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)</b>
+<b>Currently working through: [Java mooc.fi](https://java-programming.mooc.fi/)</b>
+
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 
 
            *             ,
@@ -30,3 +32,4 @@
                  .--' ')
                o(  )_-\
                  `"""` `
+                 Happy Holidays!
