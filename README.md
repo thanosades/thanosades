@@ -2,7 +2,7 @@
 
 <p>My portfolio can be found <a href="https://thanosades.vercel.app/">here</a>.</p>
 
-<p>Current status: Switching from C# and ASP.NET Core to Java and Spring.</p>
+<p>Current status: Learning Java and Spring.</p>
 
 <pre>
 function day() {
