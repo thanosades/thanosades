@@ -2,8 +2,6 @@
 
 <p>My portfolio can be found <a href="https://thanosades.vercel.app/">here</a>.</p>
 
-<p>Current status: Learning Java and Spring.</p>
-
 <pre>
 function day() {
     eat();
