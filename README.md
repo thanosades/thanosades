@@ -2,7 +2,7 @@
 
 <p>My portfolio can be found <a href="https://thanosades.vercel.app/">here</a>.</p>
 
-<p>My generated github resume can be found <a href="https://resume.github.io/?thanosades">here</a>.</p>
+<p>My github-generated resume can be found <a href="https://resume.github.io/?thanosades">here</a>.</p>
 
 <pre>
 function day() {
