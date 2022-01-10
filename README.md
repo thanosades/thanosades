@@ -13,6 +13,14 @@ function day() {
 }
 </pre>
 
-Favorite distro: Arch Linux
-Favorite editor(s): Neovim, VS Code
-Favorite IDE: IntelliJ IDEA
+Personal favorites
+<ul>
+    <li>Favorite distro: Arch Linux</li>
+    <li>Favorite editor(s): Neovim, VS Code</li>
+    <li>Favorite IDE: IntelliJ IDEA</li>
+</ul>
+
+
+
+
+
