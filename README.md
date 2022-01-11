@@ -16,8 +16,8 @@ function day() {
 Personal favorites
 <ul>
     <li>Favorite distro: Arch Linux</li>
-    <li>Favorite editor(s): Neovim, VS Code</li>
-    <li>Favorite IDE's: Visual Studio, IntelliJ IDEA, IntelliJ Rider</li>
+    <li>Favorite editor: Neovim</li>
+    <li>Favorite IDE: IntelliJ IDEA</li>
 </ul>
 
 
