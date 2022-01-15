@@ -4,4 +4,6 @@
 
 <p>My github-generated resume can be found <a href="https://resume.github.io/?thanosades">here</a>.</p>
 
-<p>If you're a friendly and respectful person who loves coding as much as I do, add me on Discord: MeltyGear#4546 (I'm also up for chess and Yu-Gi-Oh!)</p>
+<p>If you're a friendly and respectful person who loves coding as much as I do, add me on Discord: MeltyGear#4546 (I'm also up for chess and Yu-Gi-Oh!).</p>
+
+<p>Thank you for coming!</p>
