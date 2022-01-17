@@ -1,12 +1,8 @@
-<h1 align='center'>Hello 👋😊 I'm Thanos!</h1>
+<h1 align='center'>My name is Thanos! 👋😊 Thank you for coming</h1>
 
-<p>My portfolio can be found <a href="https://thanosades.vercel.app/">here</a>.</p>
-
-<p>My github-generated resume can be found <a href="https://resume.github.io/?thanosades">here</a>.</p>
-
-<p><3 TypeScript, Python</p>
-
-<p>If you're a friendly and respectful person who loves coding and building projects as much as I do, add me on Discord: MeltyGear#4546.</p>
-<p>Also available for chess, Yu-Gi-Oh! and Dungeons & Dragons!</p>
-
-<p>Thank you for coming!</p>
+<ul>
+  <li>💖 I LOVE JavaScript, TypeScript and Python 
+  <li>👨‍💻 My current main focus is the frontend, but I'm also dabbling in backend 
+  <li>💯 My Discord name is MeltyGear#4546 
+  <li>🎲 Also available for chess, Yu-Gi-Oh! duels and Dungeons & Dragons 
+</ul>
