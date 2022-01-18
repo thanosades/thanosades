@@ -3,7 +3,7 @@
 <ul>
   <li>💖 I LOVE TypeScript and Python 
   <li>👨‍💻 My current main focus is the frontend, but I'm also dabbling in backend 
-  <li>💯 I'f you're a friendly and respectful person who values his code, don't be a stranger! Add me on Discord, MeltyGear#4546 
+  <li>💯 If you're a friendly and respectful person who values his code, don't be a stranger! Add me on Discord, MeltyGear#4546 
   <li>🎲 Also available for chess, Yu-Gi-Oh! duels and Dungeons & Dragons 
 </ul>
 
