@@ -13,7 +13,7 @@
   <li>MongoDB or PostgreSQL</li>
 </ul>
 
-<p>I also know Python and Java but just for terminal applications and coding challenges (Hackerrank, Codewars, Leetcode, etc.)</p>
+<p>I also know Python and Java, however I've only used those language for simple applications and programming challenges (hackerrank, leetcode, etc.)</p>
 </main>
 <footer>
 <h3>Thank you for coming!</h3>
