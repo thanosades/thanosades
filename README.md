@@ -20,6 +20,8 @@
 - [ ] Python backend framework (Django/Flask or...?)
 - [ ] Docker
 
+<p>And of course, keep improving and moving forward!</p>
+
   
-<h3>Thank you for coming!</h3>
+<h3>Thank you for coming to my <s>TED talk</s> profile!</h3>
 
