@@ -1,7 +1,7 @@
 
 <h1 align='center'>Hello!👋😊</h1>
 
-<p>My name is Thanos and I'm a Frontend Web Developer!</p>
+<p>My name is Thanos and I build cool and helpful things.</p>
 
 <h2>My Current Stack</h2>
 <ul>
