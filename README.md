@@ -5,11 +5,12 @@
 
 <h2>My Current Stack</h2>
 <ul>
-  <li>React</li>
+  <li>React hooks</li>
   <li>TypeScript</li>
-  <li>Redux or useContext/useReducer</li>
-  <li>Node.js (Express)</li>
-  <li>MongoDB or PostgreSQL</li>
+  <li>Redux</li>
+  <li>Python</li>
+  <li>Kafka</li>
+  <li>MongoDB</li>
 </ul>
 
 
