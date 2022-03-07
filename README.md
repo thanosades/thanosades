@@ -9,7 +9,6 @@
   <li>TypeScript</li>
   <li>Redux</li>
   <li>Python</li>
-  <li>Kafka</li>
   <li>MongoDB</li>
 </ul>
 
