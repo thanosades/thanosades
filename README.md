@@ -18,7 +18,7 @@
 - [ ] Relay
 - [ ] Rust
 - [ ] Python backend framework (Django/Flask or...?)
-- [ ] Docker
+- [X] Docker
 
 <p>And of course, keep improving and moving forward!</p>
 
