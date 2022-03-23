@@ -15,7 +15,7 @@
 
 <h2>New technologies I'm planning to learn in 2022</h2>
 
-- [ ] Relay
+- [ ] Go
 - [ ] Rust
 - [ ] Python backend framework (Django/Flask or...?)
 - [X] Docker
