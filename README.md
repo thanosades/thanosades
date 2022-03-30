@@ -21,5 +21,4 @@
 <p>And of course, keep improving and moving forward!</p>
 
   
-<h3>Thank you for coming to my <s>TED talk</s> profile!</h3>
-
+<p>Thank you for coming!</p>
