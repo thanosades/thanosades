@@ -15,10 +15,8 @@
 
 <h2>New technologies I'm planning to learn in 2022</h2>
 
-- [ ] Go
-- [ ] Rust
-- [ ] Python backend framework (Django/Flask or...?)
 - [X] Docker
+- [ ] Go
 
 <p>And of course, keep improving and moving forward!</p>
 
