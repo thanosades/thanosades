@@ -16,7 +16,7 @@
 <h2>New technologies I'm planning to learn in 2022</h2>
 
 - [X] Docker
-- [ ] Go
+- [ ] Rust
 
 <p>And of course, keep improving and moving forward!</p>
 
