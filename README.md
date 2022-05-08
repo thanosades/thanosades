@@ -5,7 +5,7 @@
 
 <h2>My Current Stack</h2>
 <ul>
-  <li>React (hooks)</li>
+  <li>React/Next.js</li>
   <li>TypeScript</li>
   <li>Redux</li>
   <li>Python</li>
