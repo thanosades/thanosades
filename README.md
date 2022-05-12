@@ -1,7 +1,7 @@
 
 <h1 align='center'>Hello!👋😊</h1>
 
-<p>My name is Thanos, and I just like coding.</p>
+<p>My name is Thanos. I got bored of leveling up in video games, and decided to level up in software development instead.</p>
 
 <h2>My Current Stack</h2>
 <ul>
